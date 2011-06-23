@@ -1,0 +1,9 @@
+Package: com.abart997.easyrespring
+Name: EasyRespring
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Andrea Oliva
+Author: Andrea Oliva
+Section: Tweaks
